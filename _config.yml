@@ -7,19 +7,17 @@ analytics:
       url: https://vps.irockbunny.com/analytics/?callback=?
       token: d02aaf812df43e020db5de7f5b0f15a8
 
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: NavAwesome/navawesome.github.io
+repository_url: https://github.com/NavAwesome/navawesome.github.io
 
 timezone: Asia/Shanghai
 
-name: 北邮人导航 · BYR-Navi
-author: iROCKBUNNY
-author_url: http://irockbunny.com
-organization: TEELAB
-organization_url: http://teelab.net
+name: 导航 · NavAwesome
+author: NavAwesome
+author_url: https://navawesome.github.io/
 description: A Navigation Website for BYR
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: http://byr-navi.com
+keywords: 导航, NavAwesome, Navi, Navigation
+url: https://navawesome.github.io/
 contact: contact[at]irockbunny[dot]com
 
 logo: /images/logo.png
